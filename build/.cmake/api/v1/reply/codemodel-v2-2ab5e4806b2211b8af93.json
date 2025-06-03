@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IndexStructureBenchmark",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark-Debug-0d171f1d69eade3dc0bb.json",
+					"name" : "benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_lognormal_100000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_lognormal_100000-Debug-0899c37b46663ae7e9b8.json",
+					"name" : "benchmark_lognormal_100000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_lognormal_1000000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_lognormal_1000000-Debug-f6388d4bbfb5f31f457e.json",
+					"name" : "benchmark_lognormal_1000000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_lognormal_10000000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_lognormal_10000000-Debug-43656523251b14537512.json",
+					"name" : "benchmark_lognormal_10000000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_normal_100000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_normal_100000-Debug-129306ebfc14830084dc.json",
+					"name" : "benchmark_normal_100000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_normal_1000000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_normal_1000000-Debug-1d676bad2ee980b3d70e.json",
+					"name" : "benchmark_normal_1000000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_normal_10000000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_normal_10000000-Debug-2247371211f6f9bf3f5c.json",
+					"name" : "benchmark_normal_10000000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_uniform_100000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_uniform_100000-Debug-5ccb1d7e63714526763e.json",
+					"name" : "benchmark_uniform_100000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_uniform_1000000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_uniform_1000000-Debug-4c9a42d4bdec6aeedbe0.json",
+					"name" : "benchmark_uniform_1000000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_uniform_10000000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_uniform_10000000-Debug-a75c65c06f72f9768d69.json",
+					"name" : "benchmark_uniform_10000000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_zipf_100000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_zipf_100000-Debug-1a281eda245ec4b019a5.json",
+					"name" : "benchmark_zipf_100000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_zipf_1000000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_zipf_1000000-Debug-b68c192f14ffa7e1863d.json",
+					"name" : "benchmark_zipf_1000000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark_zipf_10000000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark_zipf_10000000-Debug-0201fae5196a9ec115f8.json",
+					"name" : "benchmark_zipf_10000000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "python_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-python_deps-Debug-36dfc6a1b2d0d227fd2b.json",
+					"name" : "python_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run_benchmarks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run_benchmarks-Debug-a40dc890e9729de59320.json",
+					"name" : "run_benchmarks",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/adrozdovam/Documents/coursework/build",
+		"source" : "/Users/adrozdovam/Documents/coursework"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/adrozdovam/Documents/coursework/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -o CMakeFiles/benchmark.dir/src/cpp/main.cpp.o -c /Users/adrozdovam/Documents/coursework/src/cpp/main.cpp",
+  "file": "/Users/adrozdovam/Documents/coursework/src/cpp/main.cpp",
+  "output": "CMakeFiles/benchmark.dir/src/cpp/main.cpp.o"
+}
+]

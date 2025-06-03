@@ -1,0 +1,609 @@
+{
+  "branch_factor": 100,
+  "stage1": {
+    "slope": 2.5018196809642483e-14,
+    "intercept": -28794.093894560257
+  },
+  "stage2": [
+    {
+      "slope": 2.639469999398388e-12,
+      "intercept": -3034667.7711068615,
+      "min_error": -531,
+      "max_error": 4744
+    },
+    {
+      "slope": 7.839359118464421e-12,
+      "intercept": -9018711.429207494,
+      "min_error": -8,
+      "max_error": 7
+    },
+    {
+      "slope": 8.329755512927558e-12,
+      "intercept": -9583150.966695854,
+      "min_error": -12,
+      "max_error": 9
+    },
+    {
+      "slope": 9.421751825497039e-12,
+      "intercept": -10840099.212947274,
+      "min_error": -17,
+      "max_error": 13
+    },
+    {
+      "slope": 9.853335138278018e-12,
+      "intercept": -11336877.532585336,
+      "min_error": -12,
+      "max_error": 11
+    },
+    {
+      "slope": 9.73772043701675e-12,
+      "intercept": -11203793.535579626,
+      "min_error": -8,
+      "max_error": 7
+    },
+    {
+      "slope": 1.090479512150093e-11,
+      "intercept": -12547280.777487071,
+      "min_error": -13,
+      "max_error": 18
+    },
+    {
+      "slope": 1.1078518012860852e-11,
+      "intercept": -12747279.231794769,
+      "min_error": -14,
+      "max_error": 14
+    },
+    {
+      "slope": 1.2197571429947322e-11,
+      "intercept": -14035580.352598542,
+      "min_error": -10,
+      "max_error": 12
+    },
+    {
+      "slope": 1.3282703997420825e-11,
+      "intercept": -15284893.965990832,
+      "min_error": -14,
+      "max_error": 16
+    },
+    {
+      "slope": 1.3098610524497264e-11,
+      "intercept": -15072946.523413097,
+      "min_error": -10,
+      "max_error": 10
+    },
+    {
+      "slope": 1.4349247967662322e-11,
+      "intercept": -16512880.958057797,
+      "min_error": -13,
+      "max_error": 15
+    },
+    {
+      "slope": 1.3116560789630948e-11,
+      "intercept": -15093555.406945439,
+      "min_error": -18,
+      "max_error": 16
+    },
+    {
+      "slope": 1.4709525114858384e-11,
+      "intercept": -16927756.313113697,
+      "min_error": -14,
+      "max_error": 11
+    },
+    {
+      "slope": 1.586044529099151e-11,
+      "intercept": -18253032.76201937,
+      "min_error": -17,
+      "max_error": 14
+    },
+    {
+      "slope": 1.6922796233408213e-11,
+      "intercept": -19476373.66592869,
+      "min_error": -21,
+      "max_error": 13
+    },
+    {
+      "slope": 1.6733677511181385e-11,
+      "intercept": -19258608.5300786,
+      "min_error": -12,
+      "max_error": 13
+    },
+    {
+      "slope": 1.665359063601206e-11,
+      "intercept": -19166370.718672898,
+      "min_error": -12,
+      "max_error": 16
+    },
+    {
+      "slope": 1.8483457226977687e-11,
+      "intercept": -21273733.28359045,
+      "min_error": -20,
+      "max_error": 15
+    },
+    {
+      "slope": 2.098326956138062e-11,
+      "intercept": -24152717.294274252,
+      "min_error": -20,
+      "max_error": 15
+    },
+    {
+      "slope": 1.8850543594496136e-11,
+      "intercept": -21696408.43163786,
+      "min_error": -16,
+      "max_error": 15
+    },
+    {
+      "slope": 2.120477261197659e-11,
+      "intercept": -24407928.448132493,
+      "min_error": -14,
+      "max_error": 14
+    },
+    {
+      "slope": 2.188487897789187e-11,
+      "intercept": -25191278.29427191,
+      "min_error": -22,
+      "max_error": 13
+    },
+    {
+      "slope": 2.1390871966952098e-11,
+      "intercept": -24622238.113336723,
+      "min_error": -18,
+      "max_error": 11
+    },
+    {
+      "slope": 2.4280914321853844e-11,
+      "intercept": -27951243.40541622,
+      "min_error": -14,
+      "max_error": 16
+    },
+    {
+      "slope": 2.482927920910919e-11,
+      "intercept": -28582916.825503495,
+      "min_error": -22,
+      "max_error": 21
+    },
+    {
+      "slope": 2.5039315894652527e-11,
+      "intercept": -28824849.15623958,
+      "min_error": -16,
+      "max_error": 14
+    },
+    {
+      "slope": 2.5915577963150266e-11,
+      "intercept": -29834317.158803415,
+      "min_error": -15,
+      "max_error": 16
+    },
+    {
+      "slope": 2.626297582182971e-11,
+      "intercept": -30234524.934852388,
+      "min_error": -23,
+      "max_error": 25
+    },
+    {
+      "slope": 2.6519693880586272e-11,
+      "intercept": -30530296.978312135,
+      "min_error": -15,
+      "max_error": 17
+    },
+    {
+      "slope": 2.7479584089315406e-11,
+      "intercept": -31636191.574351422,
+      "min_error": -19,
+      "max_error": 21
+    },
+    {
+      "slope": 2.972877192059342e-11,
+      "intercept": -34227637.729087256,
+      "min_error": -18,
+      "max_error": 23
+    },
+    {
+      "slope": 3.060270712508872e-11,
+      "intercept": -35234594.77803057,
+      "min_error": -19,
+      "max_error": 19
+    },
+    {
+      "slope": 3.043933803298879e-11,
+      "intercept": -35046363.16893821,
+      "min_error": -18,
+      "max_error": 16
+    },
+    {
+      "slope": 3.100831292146831e-11,
+      "intercept": -35701992.28367384,
+      "min_error": -17,
+      "max_error": 29
+    },
+    {
+      "slope": 3.071686806212536e-11,
+      "intercept": -35366136.68407643,
+      "min_error": -19,
+      "max_error": 15
+    },
+    {
+      "slope": 3.250516634074229e-11,
+      "intercept": -37426895.1076228,
+      "min_error": -17,
+      "max_error": 23
+    },
+    {
+      "slope": 3.174855866368387e-11,
+      "intercept": -36554978.794249095,
+      "min_error": -18,
+      "max_error": 27
+    },
+    {
+      "slope": 3.0888086298269415e-11,
+      "intercept": -35563298.09237048,
+      "min_error": -19,
+      "max_error": 22
+    },
+    {
+      "slope": 3.261891294042337e-11,
+      "intercept": -37558087.38171188,
+      "min_error": -20,
+      "max_error": 24
+    },
+    {
+      "slope": 3.5204171058805035e-11,
+      "intercept": -40537660.72294962,
+      "min_error": -19,
+      "max_error": 18
+    },
+    {
+      "slope": 3.606553614895304e-11,
+      "intercept": -41530438.83506832,
+      "min_error": -18,
+      "max_error": 25
+    },
+    {
+      "slope": 3.5685971122923306e-11,
+      "intercept": -41092970.73024033,
+      "min_error": -24,
+      "max_error": 16
+    },
+    {
+      "slope": 3.4280378605272865e-11,
+      "intercept": -39472833.71480757,
+      "min_error": -19,
+      "max_error": 20
+    },
+    {
+      "slope": 3.471560964184703e-11,
+      "intercept": -39974511.03095187,
+      "min_error": -16,
+      "max_error": 20
+    },
+    {
+      "slope": 3.372760185563338e-11,
+      "intercept": -38835600.06098074,
+      "min_error": -24,
+      "max_error": 23
+    },
+    {
+      "slope": 3.602769210960154e-11,
+      "intercept": -41487040.99402113,
+      "min_error": -23,
+      "max_error": 16
+    },
+    {
+      "slope": 3.756941267257863e-11,
+      "intercept": -43264331.67471576,
+      "min_error": -26,
+      "max_error": 19
+    },
+    {
+      "slope": 3.482242437188475e-11,
+      "intercept": -40097515.643849686,
+      "min_error": -26,
+      "max_error": 26
+    },
+    {
+      "slope": 3.6932615205964863e-11,
+      "intercept": -42530313.03858238,
+      "min_error": -20,
+      "max_error": 22
+    },
+    {
+      "slope": 3.5555677814530943e-11,
+      "intercept": -40942815.34635549,
+      "min_error": -30,
+      "max_error": 23
+    },
+    {
+      "slope": 3.655828930576184e-11,
+      "intercept": -42098765.95233158,
+      "min_error": -28,
+      "max_error": 44
+    },
+    {
+      "slope": 3.4104346657985295e-11,
+      "intercept": -39269378.753396474,
+      "min_error": -14,
+      "max_error": 16
+    },
+    {
+      "slope": 3.635893150000952e-11,
+      "intercept": -41868994.46786261,
+      "min_error": -15,
+      "max_error": 19
+    },
+    {
+      "slope": 3.536882499504629e-11,
+      "intercept": -40727318.14165698,
+      "min_error": -13,
+      "max_error": 25
+    },
+    {
+      "slope": 3.1355877595829705e-11,
+      "intercept": -36099889.69815931,
+      "min_error": -14,
+      "max_error": 17
+    },
+    {
+      "slope": 3.5021273691026985e-11,
+      "intercept": -40326695.73279163,
+      "min_error": -28,
+      "max_error": 16
+    },
+    {
+      "slope": 3.37668435782124e-11,
+      "intercept": -38880081.728211395,
+      "min_error": -18,
+      "max_error": 21
+    },
+    {
+      "slope": 3.292511428815105e-11,
+      "intercept": -37909350.18024642,
+      "min_error": -33,
+      "max_error": 35
+    },
+    {
+      "slope": 3.362462754427733e-11,
+      "intercept": -38716128.10327679,
+      "min_error": -27,
+      "max_error": 26
+    },
+    {
+      "slope": 3.203223929565748e-11,
+      "intercept": -36879552.83623968,
+      "min_error": -17,
+      "max_error": 27
+    },
+    {
+      "slope": 3.300458124537921e-11,
+      "intercept": -38001034.78922902,
+      "min_error": -17,
+      "max_error": 13
+    },
+    {
+      "slope": 3.081263267794265e-11,
+      "intercept": -35472824.98515899,
+      "min_error": -21,
+      "max_error": 25
+    },
+    {
+      "slope": 3.266291244962209e-11,
+      "intercept": -37607038.46374446,
+      "min_error": -26,
+      "max_error": 18
+    },
+    {
+      "slope": 3.101747382505522e-11,
+      "intercept": -35709070.9096982,
+      "min_error": -25,
+      "max_error": 20
+    },
+    {
+      "slope": 3.081446226387662e-11,
+      "intercept": -35474875.64673877,
+      "min_error": -24,
+      "max_error": 21
+    },
+    {
+      "slope": 3.143963667500544e-11,
+      "intercept": -36196054.95230737,
+      "min_error": -22,
+      "max_error": 25
+    },
+    {
+      "slope": 2.916449904879603e-11,
+      "intercept": -33571474.64543458,
+      "min_error": -20,
+      "max_error": 14
+    },
+    {
+      "slope": 2.8355278086182618e-11,
+      "intercept": -32637934.18507181,
+      "min_error": -23,
+      "max_error": 18
+    },
+    {
+      "slope": 2.6586510228383278e-11,
+      "intercept": -30597319.06886843,
+      "min_error": -22,
+      "max_error": 26
+    },
+    {
+      "slope": 2.769309449967689e-11,
+      "intercept": -31874026.894249834,
+      "min_error": -17,
+      "max_error": 23
+    },
+    {
+      "slope": 2.455919268237018e-11,
+      "intercept": -28258228.723618302,
+      "min_error": -18,
+      "max_error": 20
+    },
+    {
+      "slope": 2.3969056526742472e-11,
+      "intercept": -27577317.040772785,
+      "min_error": -22,
+      "max_error": 32
+    },
+    {
+      "slope": 2.444421633819198e-11,
+      "intercept": -28125561.771641936,
+      "min_error": -18,
+      "max_error": 22
+    },
+    {
+      "slope": 2.5502535116182524e-11,
+      "intercept": -29346746.86828716,
+      "min_error": -15,
+      "max_error": 15
+    },
+    {
+      "slope": 2.2054389545226134e-11,
+      "intercept": -25367864.29236772,
+      "min_error": -11,
+      "max_error": 16
+    },
+    {
+      "slope": 2.2621620774423595e-11,
+      "intercept": -26022422.585341003,
+      "min_error": -22,
+      "max_error": 18
+    },
+    {
+      "slope": 2.3435546529132025e-11,
+      "intercept": -26961679.711674064,
+      "min_error": -16,
+      "max_error": 18
+    },
+    {
+      "slope": 2.1614963943818752e-11,
+      "intercept": -24860668.566092934,
+      "min_error": -14,
+      "max_error": 16
+    },
+    {
+      "slope": 2.021999954523052e-11,
+      "intercept": -23250767.346691266,
+      "min_error": -17,
+      "max_error": 15
+    },
+    {
+      "slope": 2.0699383440996945e-11,
+      "intercept": -23804051.69869647,
+      "min_error": -15,
+      "max_error": 20
+    },
+    {
+      "slope": 1.7945060125898325e-11,
+      "intercept": -20625102.901019204,
+      "min_error": -21,
+      "max_error": 15
+    },
+    {
+      "slope": 1.8888559335358776e-11,
+      "intercept": -21714107.93179202,
+      "min_error": -15,
+      "max_error": 14
+    },
+    {
+      "slope": 1.6550455136920552e-11,
+      "intercept": -19015384.13110095,
+      "min_error": -11,
+      "max_error": 14
+    },
+    {
+      "slope": 1.7538310268473722e-11,
+      "intercept": -20155655.07370577,
+      "min_error": -11,
+      "max_error": 9
+    },
+    {
+      "slope": 1.6572697410030606e-11,
+      "intercept": -19041016.99165325,
+      "min_error": -23,
+      "max_error": 17
+    },
+    {
+      "slope": 1.638906367929903e-11,
+      "intercept": -18829054.734453276,
+      "min_error": -18,
+      "max_error": 16
+    },
+    {
+      "slope": 1.4087095584230416e-11,
+      "intercept": -16171653.904842218,
+      "min_error": -10,
+      "max_error": 11
+    },
+    {
+      "slope": 1.3338795958461795e-11,
+      "intercept": -15307764.067523632,
+      "min_error": -24,
+      "max_error": 20
+    },
+    {
+      "slope": 1.3245330954685439e-11,
+      "intercept": -15199854.289569287,
+      "min_error": -23,
+      "max_error": 22
+    },
+    {
+      "slope": 1.2849141294938722e-11,
+      "intercept": -14742465.613429355,
+      "min_error": -10,
+      "max_error": 10
+    },
+    {
+      "slope": 1.2837724630094228e-11,
+      "intercept": -14729290.647459874,
+      "min_error": -19,
+      "max_error": 20
+    },
+    {
+      "slope": 1.1067755332797576e-11,
+      "intercept": -12685672.909613922,
+      "min_error": -11,
+      "max_error": 13
+    },
+    {
+      "slope": 9.43757511612778e-12,
+      "intercept": -10803383.866343511,
+      "min_error": -15,
+      "max_error": 13
+    },
+    {
+      "slope": 1.1032294830882237e-11,
+      "intercept": -12644783.764372697,
+      "min_error": -13,
+      "max_error": 11
+    },
+    {
+      "slope": 9.72594324579638e-12,
+      "intercept": -11136315.963351859,
+      "min_error": -9,
+      "max_error": 6
+    },
+    {
+      "slope": 9.066840573916864e-12,
+      "intercept": -10375200.164906256,
+      "min_error": -11,
+      "max_error": 12
+    },
+    {
+      "slope": 9.18254047791694e-12,
+      "intercept": -10508797.684516344,
+      "min_error": -11,
+      "max_error": 11
+    },
+    {
+      "slope": 8.390753479362735e-12,
+      "intercept": -9594420.932847138,
+      "min_error": -9,
+      "max_error": 12
+    },
+    {
+      "slope": 2.518394925387814e-12,
+      "intercept": -2811666.319990552,
+      "min_error": -4330,
+      "max_error": 534
+    }
+  ]
+}

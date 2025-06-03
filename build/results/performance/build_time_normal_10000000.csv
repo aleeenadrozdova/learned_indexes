@@ -1,0 +1,6 @@
+Index,BuildTime(s)
+B-Tree,19.145
+B+-Tree,25.0614
+RMI,28.8
+FITing-Tree,8.58471
+RadixSpline,0.446703

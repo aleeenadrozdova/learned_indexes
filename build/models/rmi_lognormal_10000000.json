@@ -1,0 +1,609 @@
+{
+  "branch_factor": 100,
+  "stage1": {
+    "slope": 4.143704470047146e-18,
+    "intercept": 34.13952360291769
+  },
+  "stage2": [
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 0.0,
+      "intercept": 0.0,
+      "min_error": 0,
+      "max_error": 0
+    },
+    {
+      "slope": 9.64986675957971e-12,
+      "intercept": 81149.21110758046,
+      "min_error": -128088,
+      "max_error": 63059
+    },
+    {
+      "slope": 5.0927323220709365e-12,
+      "intercept": 952448.0709694836,
+      "min_error": -53058,
+      "max_error": 26272
+    },
+    {
+      "slope": 3.323632177427595e-12,
+      "intercept": 1716862.7175958673,
+      "min_error": -23111,
+      "max_error": 11740
+    },
+    {
+      "slope": 2.4338058573439128e-12,
+      "intercept": 2321604.2215369223,
+      "min_error": -13582,
+      "max_error": 7236
+    },
+    {
+      "slope": 1.902247872559049e-12,
+      "intercept": 2811947.174545938,
+      "min_error": -9125,
+      "max_error": 4489
+    },
+    {
+      "slope": 1.5412650405109121e-12,
+      "intercept": 3232332.62030074,
+      "min_error": -6071,
+      "max_error": 3017
+    },
+    {
+      "slope": 1.2882107755064844e-12,
+      "intercept": 3588771.5161550734,
+      "min_error": -4351,
+      "max_error": 2226
+    },
+    {
+      "slope": 1.1031207111843806e-12,
+      "intercept": 3894686.11845995,
+      "min_error": -3502,
+      "max_error": 1876
+    },
+    {
+      "slope": 9.4995179835768e-13,
+      "intercept": 4184231.1996962084,
+      "min_error": -2527,
+      "max_error": 1191
+    },
+    {
+      "slope": 8.372934278140823e-13,
+      "intercept": 4424698.34498509,
+      "min_error": -2284,
+      "max_error": 1133
+    },
+    {
+      "slope": 7.373937694240598e-13,
+      "intercept": 4662059.323500471,
+      "min_error": -1920,
+      "max_error": 1080
+    },
+    {
+      "slope": 6.5972404844509e-13,
+      "intercept": 4865497.77117995,
+      "min_error": -1526,
+      "max_error": 938
+    },
+    {
+      "slope": 5.995943111026016e-13,
+      "intercept": 5037630.056164486,
+      "min_error": -1072,
+      "max_error": 612
+    },
+    {
+      "slope": 5.432477097403315e-13,
+      "intercept": 5212347.847974498,
+      "min_error": -974,
+      "max_error": 679
+    },
+    {
+      "slope": 4.942390210284317e-13,
+      "intercept": 5376318.540329499,
+      "min_error": -1120,
+      "max_error": 687
+    },
+    {
+      "slope": 4.559620835626585e-13,
+      "intercept": 5513308.9128454765,
+      "min_error": -837,
+      "max_error": 344
+    },
+    {
+      "slope": 4.1779737914314796e-13,
+      "intercept": 5659383.997564001,
+      "min_error": -683,
+      "max_error": 335
+    },
+    {
+      "slope": 3.865292621733867e-13,
+      "intercept": 5786454.889467012,
+      "min_error": -538,
+      "max_error": 499
+    },
+    {
+      "slope": 3.6000078721275596e-13,
+      "intercept": 5900802.829094311,
+      "min_error": -630,
+      "max_error": 268
+    },
+    {
+      "slope": 3.349054690755983e-13,
+      "intercept": 6014845.94927141,
+      "min_error": -670,
+      "max_error": 380
+    },
+    {
+      "slope": 3.123102123939224e-13,
+      "intercept": 6122812.429483717,
+      "min_error": -380,
+      "max_error": 357
+    },
+    {
+      "slope": 2.9271343696058796e-13,
+      "intercept": 6221574.003439173,
+      "min_error": -420,
+      "max_error": 240
+    },
+    {
+      "slope": 2.721082806967063e-13,
+      "intercept": 6330167.796385504,
+      "min_error": -294,
+      "max_error": 160
+    },
+    {
+      "slope": 2.576723625593922e-13,
+      "intercept": 6409718.273130457,
+      "min_error": -148,
+      "max_error": 181
+    },
+    {
+      "slope": 2.441266450856523e-13,
+      "intercept": 6487909.386693559,
+      "min_error": -234,
+      "max_error": 264
+    },
+    {
+      "slope": 2.2880023352688555e-13,
+      "intercept": 6580090.127926145,
+      "min_error": -396,
+      "max_error": 312
+    },
+    {
+      "slope": 2.1759194358997576e-13,
+      "intercept": 6649933.220190863,
+      "min_error": -255,
+      "max_error": 211
+    },
+    {
+      "slope": 2.052232797789808e-13,
+      "intercept": 6729979.66420705,
+      "min_error": -178,
+      "max_error": 195
+    },
+    {
+      "slope": 1.9392482368504392e-13,
+      "intercept": 6806217.463758501,
+      "min_error": -442,
+      "max_error": 257
+    },
+    {
+      "slope": 1.859487540340771e-13,
+      "intercept": 6861723.6761893295,
+      "min_error": -175,
+      "max_error": 144
+    },
+    {
+      "slope": 1.760543060578965e-13,
+      "intercept": 6933084.683988619,
+      "min_error": -162,
+      "max_error": 148
+    },
+    {
+      "slope": 1.6872748893005787e-13,
+      "intercept": 6987656.817492508,
+      "min_error": -174,
+      "max_error": 163
+    },
+    {
+      "slope": 1.6056468802084131e-13,
+      "intercept": 7050429.591564851,
+      "min_error": -146,
+      "max_error": 69
+    },
+    {
+      "slope": 1.5353554156069765e-13,
+      "intercept": 7106251.614671374,
+      "min_error": -202,
+      "max_error": 190
+    },
+    {
+      "slope": 1.4676968887422605e-13,
+      "intercept": 7161524.983226686,
+      "min_error": -170,
+      "max_error": 183
+    },
+    {
+      "slope": 1.41459375498795e-13,
+      "intercept": 7206301.699175281,
+      "min_error": -292,
+      "max_error": 199
+    },
+    {
+      "slope": 1.3641675676550928e-13,
+      "intercept": 7249813.708994258,
+      "min_error": -203,
+      "max_error": 106
+    },
+    {
+      "slope": 1.3218533148657312e-13,
+      "intercept": 7287464.89057829,
+      "min_error": -225,
+      "max_error": 208
+    },
+    {
+      "slope": 1.2564276814612356e-13,
+      "intercept": 7347205.169798451,
+      "min_error": -108,
+      "max_error": 76
+    },
+    {
+      "slope": 1.2039327708430867e-13,
+      "intercept": 7396592.571776418,
+      "min_error": -162,
+      "max_error": 97
+    },
+    {
+      "slope": 1.1618182461183652e-13,
+      "intercept": 7437166.621713235,
+      "min_error": -180,
+      "max_error": 178
+    },
+    {
+      "slope": 1.1205069166315628e-13,
+      "intercept": 7477812.646294374,
+      "min_error": -111,
+      "max_error": 102
+    },
+    {
+      "slope": 1.0806268684250712e-13,
+      "intercept": 7518132.654488029,
+      "min_error": -163,
+      "max_error": 151
+    },
+    {
+      "slope": 1.0436873765709466e-13,
+      "intercept": 7556194.408884156,
+      "min_error": -182,
+      "max_error": 124
+    },
+    {
+      "slope": 9.904663297006882e-14,
+      "intercept": 7612387.493152306,
+      "min_error": -126,
+      "max_error": 113
+    },
+    {
+      "slope": 9.671675540831687e-14,
+      "intercept": 7637499.646765066,
+      "min_error": -108,
+      "max_error": 127
+    },
+    {
+      "slope": 9.356284370491827e-14,
+      "intercept": 7672337.667499476,
+      "min_error": -64,
+      "max_error": 59
+    },
+    {
+      "slope": 9.065154014440734e-14,
+      "intercept": 7705272.089893733,
+      "min_error": -113,
+      "max_error": 100
+    },
+    {
+      "slope": 8.598575987393532e-14,
+      "intercept": 7759154.5441849725,
+      "min_error": -80,
+      "max_error": 70
+    },
+    {
+      "slope": 8.445728775034919e-14,
+      "intercept": 7777357.882620446,
+      "min_error": -157,
+      "max_error": 118
+    },
+    {
+      "slope": 8.194707885050418e-14,
+      "intercept": 7807541.337081323,
+      "min_error": -103,
+      "max_error": 72
+    },
+    {
+      "slope": 7.8553101045389e-14,
+      "intercept": 7849273.174382621,
+      "min_error": -94,
+      "max_error": 82
+    },
+    {
+      "slope": 7.739639955559836e-14,
+      "intercept": 7863680.483750181,
+      "min_error": -73,
+      "max_error": 72
+    },
+    {
+      "slope": 7.480230897565541e-14,
+      "intercept": 7896852.282816547,
+      "min_error": -92,
+      "max_error": 92
+    },
+    {
+      "slope": 7.187672578676858e-14,
+      "intercept": 7934902.137034368,
+      "min_error": -73,
+      "max_error": 96
+    },
+    {
+      "slope": 7.117428508747702e-14,
+      "intercept": 7944152.33291213,
+      "min_error": -77,
+      "max_error": 67
+    },
+    {
+      "slope": 6.981992269139766e-14,
+      "intercept": 7962350.683798907,
+      "min_error": -114,
+      "max_error": 98
+    },
+    {
+      "slope": 6.677379785477836e-14,
+      "intercept": 8004152.235931648,
+      "min_error": -87,
+      "max_error": 65
+    },
+    {
+      "slope": 6.396543619212789e-14,
+      "intercept": 8043287.910079204,
+      "min_error": -49,
+      "max_error": 73
+    },
+    {
+      "slope": 6.223877300677658e-14,
+      "intercept": 8067862.123643534,
+      "min_error": -108,
+      "max_error": 93
+    },
+    {
+      "slope": 6.033142580590465e-14,
+      "intercept": 8095310.288048506,
+      "min_error": -75,
+      "max_error": 68
+    },
+    {
+      "slope": 5.927719940920909e-14,
+      "intercept": 8110882.018847352,
+      "min_error": -83,
+      "max_error": 68
+    },
+    {
+      "slope": 5.788338927630854e-14,
+      "intercept": 8131661.422694009,
+      "min_error": -50,
+      "max_error": 72
+    },
+    {
+      "slope": 5.628500350226361e-14,
+      "intercept": 8156040.188789518,
+      "min_error": -92,
+      "max_error": 61
+    },
+    {
+      "slope": 5.536176214885339e-14,
+      "intercept": 8170251.656898749,
+      "min_error": -68,
+      "max_error": 47
+    },
+    {
+      "slope": 2.559311657958595e-13,
+      "intercept": 4848874.491528773,
+      "min_error": -400354,
+      "max_error": 430028
+    }
+  ]
+}
